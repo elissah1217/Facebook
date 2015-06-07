@@ -20,5 +20,6 @@ Optional:
 Walkthrough
 
 <img src="http://i.imgur.com/WWv2qMF.gif" />
+<iframe class="imgur-embed" width="100%" height="565" frameborder="0" src="http://i.imgur.com/tv2zNFB.gifv#embed"></iframe>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/)
