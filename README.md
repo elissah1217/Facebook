@@ -19,6 +19,6 @@ Optional:
  
 Walkthrough
 
-<img src="http://i.imgur.com/WWv2qMF.gif" />
+<img src="http://i.imgur.com/tv2zNFB.gif" />
 [Imgur](http://i.imgur.com/tv2zNFB.gifv)
 GIF created with [LiceCap](http://www.cockos.com/licecap/)
